@@ -6,7 +6,7 @@
 
 **如果這個工具為您節省了時間，請考慮支持後續開發**
 
-[爱发电赞助]([https://ifdian.net/a/jihao])
+[爱发电赞助](https://ifdian.net/a/jihao)
 
 </div>
 # SmartTube-Free
